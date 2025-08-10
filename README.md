@@ -1,4 +1,4 @@
-# IoT Sensor QA – Safe Public Template
+# IoT Sensor QA 
 
 A **redacted, generic** example of how to test an IoT sensor end‑to‑end (LoRaWAN/MQTT style) without exposing any company IP or customer data.
 
